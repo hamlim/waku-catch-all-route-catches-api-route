@@ -13,7 +13,7 @@
     "check": "biome ci ."
   },
   "dependencies": {
-    "hono": "4.7.8",
+    "hono": "4.11.7",
     "react": "experimental",
     "react-dom": "experimental",
     "react-server-dom-webpack": "experimental",
